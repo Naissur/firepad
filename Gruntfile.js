@@ -73,6 +73,7 @@ module.exports = function (grunt) {
           "lib/entity.js",
           "lib/rich-text-codemirror.js",
           "lib/rich-text-codemirror-adapter.js",
+          "lib/monaco-adapter.js",
           "lib/formatting.js",
           "lib/text.js",
           "lib/line-formatting.js",
