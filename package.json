@@ -1,5 +1,5 @@
 {
-  "name": "firepad",
+  "name": "@naissur/firepad",
   "description": "Collaborative text editing powered by Firebase",
   "version": "1.3.0",
   "author": "Firebase <support@firebase.com> (https://www.firebase.com/)",
@@ -9,10 +9,10 @@
   "homepage": "http://www.firepad.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/firebase/firepad.git"
+    "url": "https://github.com/Naissur/firepad"
   },
   "bugs": {
-    "url": "https://github.com/firebase/firepad/issues"
+    "url": "https://github.com/Naissur/firepad/issues"
   },
   "licenses": [
     {
