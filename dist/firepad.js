@@ -4514,9 +4514,10 @@ firepad.MonacoAdapter = (function () {
 
     var pair = getOperationFromMonacoChanges(contentChanges, this.editor, this.lastDocLines, this.getValue());
     var self = this;
+    self.grabDocumentState();
 
     setTimeout(function() {
-      self.trigger('change', pair[0], pair[1])
+      self.trigger('change', pair[0], pair[1]);
       self.grabDocumentState();
     }, 1);
   };
