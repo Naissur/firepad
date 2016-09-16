@@ -1,7 +1,7 @@
 {
   "name": "@naissur/firepad",
   "description": "Collaborative text editing powered by Firebase",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "author": "Firebase <support@firebase.com> (https://www.firebase.com/)",
   "contributors": [
     "Michael Lehenbauer <michael@firebase.com>"
